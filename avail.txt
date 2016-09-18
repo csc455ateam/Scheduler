@@ -1,0 +1,6 @@
+          SU     M     T     W     Th     F     S
+Jack     Any  8:16   Any 16:22    Any   Any   Off
+Jill     Off 16:22 11:19 11:19  11:19  8:16   Any
+Bob    16:22 16:22 16:22 16:22  16:22 16:22 16:22
+Bill     Off   Off   Off   Any    Any   Any   Any
+Tony     Any   Any  8:16 16:22   8:19  8:19   Any
